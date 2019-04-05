@@ -7,6 +7,13 @@ Base HTML / CSS / JS pour le site demo de la session 2019 de la formation Code B
 * Utilisez [Github Desktop](https://desktop.github.com/) - à installer sur son poste
 * En ligne de commande : ```git clone https://github.com/cladjidane/CBZH-2019.git```
 
+## Usage
+
+Une fois dans le répertoire où se trouve les fichiers, lancez un terminal et 
+
+* soit, installez [http-server](https://www.npmjs.com/package/http-server) - néçessite que Node.js soit installé sur votre poste puis lancez  ``` http-server ```
+* soit, utilisez votre ```L```/```W```/```M```/amp pour faire tourner un serveur web 
+
 ## HMTL
 
 Structure de base du site demo *index.html*
