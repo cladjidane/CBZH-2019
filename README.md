@@ -9,10 +9,10 @@ Base HTML / CSS / JS pour le site demo de la session 2019 de la formation Code B
 
 ## Usage
 
-Une fois dans le répertoire où se trouve les fichiers, lancez un terminal et 
+Une fois dans le répertoire où se trouve les fichiers, 
 
-* soit, installez [http-server](https://www.npmjs.com/package/http-server) - néçessite que Node.js soit installé sur votre poste puis lancez  ``` http-server ```
-* soit, utilisez votre ```L```/```W```/```M```/amp pour faire tourner un serveur web 
+* soit, installez [http-server](https://www.npmjs.com/package/http-server) - néçessite que Node.js soit installé sur votre poste puis lancez via un terminal la commande : ``` http-server ```
+* soit, utilisez votre ```L```/```W```/```M```/```amp``` pour faire tourner un serveur web 
 
 ## HMTL
 
@@ -31,7 +31,7 @@ Juste un peu de JS (vanilla / standalone) pour mettre l'eau à la bouche
 
 ## Par
 
-* **Fabien CANU** - *Koality* - [Cladjidane](https://github.com/cladjidane)
+* **Fabien CANU** - [*Koality*](https://koality.fr) - [Cladjidane](https://github.com/cladjidane)
 
 ## License
 
