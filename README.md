@@ -15,8 +15,8 @@ Structure de base du site demo *index.html*
 
 Deux fichier sont utilisés ici :
 
-* [style.css] pour la présentation (graphique / mise en page) du document (HTML)
-* [knacss.css] Micro framework très cool pour simplifier la besogne css (quand on connait l'outil !) - (https://www.knacss.com/)
+* **style.css** pour la présentation (graphique / mise en page) du document (HTML)
+* **knacss.css** Micro framework très cool pour simplifier la besogne css (quand on connait l'outil !) - (https://www.knacss.com/)
 
 ## JS
 
@@ -25,8 +25,6 @@ Juste un peu de JS (vanilla / standalone) pour mettre l'eau à la bouche
 ## Par
 
 * **Fabien CANU** - *Koality* - [Cladjidane](https://github.com/cladjidane)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
