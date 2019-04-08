@@ -35,14 +35,14 @@ h3 {
 
 .top-header nav {
 	float: right;
-	padding: 45px 50px;
+	padding: 43px 50px;
 }
 
 .top-header nav ul li {
 	display: inline-block;
 }
 
-/* SLIDES */
+/* =SLIDES */
 .cbzh-slides {
 	max-width: 100%;
 	position: relative;
@@ -85,8 +85,6 @@ h3 {
 }
 
 .cbzh-slide_text {
-	border-radius: 3px;
-
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
