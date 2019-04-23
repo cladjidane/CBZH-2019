@@ -1,0 +1,94 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <link rel="stylesheet" href="css/knacss.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <style>
+            body {
+                border: 3px solid red;
+            }
+            * { text-align: center; }
+
+            header {
+                background: white;
+            }
+
+            
+            footer {
+                clear: both;
+                height: 100px;
+                background: black;
+                margin-top: 30px;
+            }
+
+            section {
+                position: relative;
+                overflow: auto;
+            }
+
+            .visuel {
+                background: url('img/staff.jpg');
+                background-size: cover;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                width: 49%;
+            }
+
+            img, main {
+                width: 50%;
+                clear: both;
+                float: right;
+            }
+
+            main {
+                background: silver;
+                border: 3px solid black;
+                padding: 30px;
+                margin-top: 30px;
+            }
+
+            @media (max-width: 576px) {
+                .visuel {
+                    height: 300px;
+                    position: relative;
+                    width: 100%;
+                }
+
+                img, main {
+                    width: 100%;
+                    float: none;
+                }
+            }
+
+            
+            </style>
+    </head>
+
+    <body>
+        <header class="grid-12">
+            <div class="col-2 badge">LOGO</div>
+            <div class="col-9">MENU</div>
+        </header>
+
+        <section>
+            <div class="visuel">
+
+            </div>
+
+            <img src="img/img1.png" alt="">
+            
+            <main>
+                <h1>lorem ipsum</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi officiis fugiat praesentium autem provident quibusdam obcaecati? Necessitatibus dolor cupiditate minima voluptate dolorem voluptates accusantium commodi ad magnam. Illo, neque explicabo?</p>
+            </main>
+
+        </section>
+
+            
+        <footer>FOOTER</footer>
+    </body>
+</html>
